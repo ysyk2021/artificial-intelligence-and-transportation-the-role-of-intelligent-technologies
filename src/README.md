@@ -14,4 +14,4 @@ In this book, we cover a range of topics related to the application of artificia
 
 Whether you are a transportation planner, engineer, or policy maker, this book has something for you. By exploring the latest developments and applications of artificial intelligence and intelligent technologies in transportation, you can gain a deeper understanding of the opportunities and challenges facing the industry today.
 
-MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles about workplace and management topics. He has written hundreds of articles on these topics and is dedicated to sharing his insights and experiences with others who are interested in improving their careers and their businesses.
+MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
