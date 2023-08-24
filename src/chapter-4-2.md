@@ -1,5 +1,3 @@
-Challenges and Limitations of AI in Transportation
-===========================================================================================
 
 While artificial intelligence (AI) is playing an increasingly important role in transportation planning and design, there are also several challenges and limitations associated with its use. In this chapter, we will explore some of these challenges and limitations.
 

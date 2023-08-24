@@ -1,5 +1,3 @@
-Chapter 2: Background and Fundamentals of Artificial Intelligence
-=================================================================
 
 To understand the role that Artificial Intelligence (AI) can play in transportation planning and design, it is important to have a basic understanding of the history, types, and machine learning techniques of AI. In this chapter, we will explore these concepts in more detail.
 

@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Transportation
-===============================================================================
 
 Artificial Intelligence (AI) has the potential to transform transportation in significant ways. By developing intelligent technologies, transportation systems can become more efficient, sustainable, and user-friendly. This book aims to explore the role of AI in transportation planning and design.
 

@@ -1,5 +1,3 @@
-Traffic Management and Control
-==============================================================================
 
 Artificial intelligence (AI) is revolutionizing transportation by improving traffic management and control systems. These intelligent technologies can help reduce traffic congestion, travel time, and emissions while simultaneously increasing safety.
 

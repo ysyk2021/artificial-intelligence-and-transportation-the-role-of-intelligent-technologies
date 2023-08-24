@@ -1,5 +1,3 @@
-Benefits of AI in Transportation
-=========================================================================
 
 Artificial intelligence (AI) is playing an increasingly important role in transportation planning and design. In this chapter, we will explore some of the key benefits of AI in transportation.
 

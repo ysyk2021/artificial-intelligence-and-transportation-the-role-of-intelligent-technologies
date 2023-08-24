@@ -1,5 +1,3 @@
-Ethical Considerations
-===========================================================================================
 
 As with any new technology, there are ethical and legal considerations related to the use of AI in transportation. In this chapter, we will explore some of the ethical considerations that must be taken into account when implementing AI in transportation planning and design.
 

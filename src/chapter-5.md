@@ -1,5 +1,3 @@
-Chapter 5: AI-Powered Transportation Solutions
-==============================================
 
 Artificial Intelligence (AI) is being increasingly used to power transportation solutions around the world. In this chapter, we will explore three key areas where AI is being utilized to create more efficient and sustainable transportation systems.
 

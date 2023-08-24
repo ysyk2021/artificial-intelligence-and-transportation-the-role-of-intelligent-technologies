@@ -1,5 +1,3 @@
-Chapter 7: Future of AI and Transportation
-==========================================
 
 As Artificial Intelligence (AI) continues to advance, it is expected to have a transformative impact on transportation planning and design. In this chapter, we will explore some of the emerging trends and future prospects for AI in transportation.
 

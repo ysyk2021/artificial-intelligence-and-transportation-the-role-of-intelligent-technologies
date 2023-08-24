@@ -1,5 +1,3 @@
-Autonomous Vehicles and Intelligent Transport Systems
-=====================================================================================================
 
 Artificial intelligence (AI) technologies are driving exciting innovations in transportation, particularly in the areas of autonomous vehicles and intelligent transport systems.
 

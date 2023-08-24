@@ -1,5 +1,3 @@
-Chapter 3: Transportation Landscape
-===================================
 
 To fully understand the role that Artificial Intelligence (AI) can play in transportation planning and design, it is important to have an understanding of the current transportation landscape. In this chapter, we will explore global trends in transportation planning and design, as well as the components of transportation systems.
 

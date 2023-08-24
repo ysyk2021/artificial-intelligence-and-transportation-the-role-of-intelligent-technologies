@@ -1,5 +1,3 @@
-History of Artificial Intelligence
-=====================================================================================================
 
 Artificial Intelligence (AI) is a field of computer science that aims to create systems that can perform tasks that require human-like intelligence. The concept of AI has been around for many years, dating back to the mid-20th century.
 

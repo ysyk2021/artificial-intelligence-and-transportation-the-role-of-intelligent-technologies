@@ -1,5 +1,3 @@
-Components of Transportation Systems
-=========================================================================
 
 In this chapter, we will explore the components of transportation systems and how they interact to create an effective and efficient transportation landscape.
 

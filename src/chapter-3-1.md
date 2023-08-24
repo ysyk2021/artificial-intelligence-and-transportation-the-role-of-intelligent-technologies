@@ -1,5 +1,3 @@
-Global Trends in Transportation Planning and Design
-========================================================================================
 
 Transportation planning and design are essential components of transportation systems, and they are constantly evolving to meet changing needs and challenges. In this chapter, we will explore some of the global trends in transportation planning and design.
 

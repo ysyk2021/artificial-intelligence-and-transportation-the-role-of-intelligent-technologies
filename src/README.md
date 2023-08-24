@@ -1,4 +1,3 @@
-# Introduction
 
 The transportation industry is undergoing a major transformation due to advances in artificial intelligence and intelligent technologies. These technologies have the potential to revolutionize transportation planning and design, making travel more efficient, sustainable, and safe. This book, 'Artificial Intelligence and Transportation: The Role of Intelligent Technologies in Transportation Planning and Design', provides a comprehensive overview of the role of intelligent technologies in the transportation industry.
 

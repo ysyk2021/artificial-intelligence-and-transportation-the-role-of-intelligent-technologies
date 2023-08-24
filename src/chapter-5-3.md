@@ -1,5 +1,3 @@
-Predictive Maintenance and Asset Management
-===========================================================================================
 
 Maintenance and asset management are critical components of transportation planning and design. By keeping vehicles and infrastructure in good working order, we can improve safety and reduce downtime. However, traditional maintenance practices can be costly and inefficient.
 

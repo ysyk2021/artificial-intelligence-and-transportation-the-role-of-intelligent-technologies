@@ -1,5 +1,3 @@
-Legal Framework
-====================================================================================
 
 In addition to ethical considerations, the use of AI in transportation also raises important legal issues. In this chapter, we will explore some of the key legal frameworks that govern the use of AI in transportation planning and design.
 

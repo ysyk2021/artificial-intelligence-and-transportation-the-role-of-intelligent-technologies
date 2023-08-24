@@ -1,5 +1,3 @@
-Machine Learning Techniques
-==============================================================================================
 
 Machine learning is a key technique in artificial intelligence (AI) that enables computers to learn from data and improve their performance over time. In this chapter, we will explore the fundamentals of machine learning techniques.
 

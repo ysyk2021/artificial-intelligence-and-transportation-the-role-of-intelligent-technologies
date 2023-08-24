@@ -1,5 +1,3 @@
-Purpose of the Book
-============================================
 
 The application of artificial intelligence (AI) is transforming the transportation industry in significant ways. With the development of intelligent technologies, transportation systems are becoming more efficient, sustainable, and user-friendly. In this book, we will explore the role of AI in transportation planning and design.
 

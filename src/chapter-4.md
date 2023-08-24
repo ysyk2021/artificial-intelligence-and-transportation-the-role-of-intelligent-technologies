@@ -1,5 +1,3 @@
-Chapter 4: Role of AI in Transportation
-=======================================
 
 Artificial Intelligence (AI) has the potential to transform transportation planning and design. In this chapter, we will explore the benefits and challenges associated with using AI in transportation.
 
