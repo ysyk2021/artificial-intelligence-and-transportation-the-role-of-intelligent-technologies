@@ -1,5 +1,4 @@
-Chapter 7: Legal Framework
-==========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As intelligent technologies continue to transform the transportation industry, it is crucial to establish a legal framework that ensures safety, privacy, and ethical use. In this chapter, we will discuss the key legal considerations associated with the use of AI in transportation planning and design.
 

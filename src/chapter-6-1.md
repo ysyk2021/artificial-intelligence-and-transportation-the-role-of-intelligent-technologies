@@ -1,5 +1,4 @@
-Chapter: Ethical Considerations
-===============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Advancements in artificial intelligence (AI) have brought significant transformations to the transportation industry, revolutionizing the way we plan, design, and operate transportation systems. However, along with these technological advancements, several ethical considerations arise. This chapter explores the ethical implications of AI in transportation planning and design, focusing on key areas where ethical decision-making is paramount.
 

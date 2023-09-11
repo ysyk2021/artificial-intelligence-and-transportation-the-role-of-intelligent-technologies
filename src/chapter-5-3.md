@@ -1,5 +1,4 @@
-Chapter: Predictive Maintenance and Asset Management
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Predictive maintenance and asset management are critical aspects of transportation systems management. Timely detection and resolution of equipment failures can reduce downtime and enhance safety while optimizing maintenance schedules can increase overall system efficiency. With the advent of artificial intelligence (AI) and machine learning, predictive maintenance and asset management have undergone significant transformations. In this chapter, we explore how intelligent technologies are being used to revolutionize transport asset management.
 

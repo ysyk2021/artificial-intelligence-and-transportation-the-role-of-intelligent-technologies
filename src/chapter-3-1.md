@@ -1,5 +1,4 @@
-Chapter: Global Trends in Transportation Planning and Design
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Transportation planning and design are constantly evolving to meet the changing needs of societies and address emerging trends. From technological advancements to shifting societal priorities, various factors shape the direction of transportation systems worldwide. In this chapter, we examine some of the global trends that are influencing transportation planning and design practices across the globe.
 

@@ -1,5 +1,4 @@
-Chapter 8: Benefits of AI in Transportation
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) is revolutionizing the transportation industry, offering numerous benefits that improve efficiency, safety, and sustainability. In this chapter, we will explore the significant advantages of integrating intelligent technologies in transportation planning and design.
 

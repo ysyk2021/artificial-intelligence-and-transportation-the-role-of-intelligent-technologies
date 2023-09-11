@@ -1,5 +1,4 @@
-Chapter 13: Traffic Management and Control
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Traffic management and control are critical components of transportation systems, aimed at optimizing traffic flow, improving safety, and reducing congestion. In this chapter, we will explore how intelligent technologies, specifically artificial intelligence (AI), play a pivotal role in revolutionizing traffic management strategies and control mechanisms.
 

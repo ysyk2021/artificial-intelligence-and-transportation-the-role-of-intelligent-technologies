@@ -1,5 +1,4 @@
-Chapter 11: Predictive Maintenance and Asset Management
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Predictive maintenance and asset management play a crucial role in ensuring the efficient operation of transportation systems. In this chapter, we will explore how artificial intelligence (AI) technologies are revolutionizing maintenance practices and optimizing asset management in transportation.
 
@@ -43,8 +42,7 @@ Several transportation agencies worldwide have already embraced predictive maint
 
 Predictive maintenance and asset management powered by AI technologies are transforming the way transportation systems ensure operational efficiency and reliability. By leveraging real-time data and machine learning algorithms, transportation authorities can optimize maintenance schedules, reduce costs, and enhance the overall performance of their assets. Embracing these intelligent technologies will pave the way for smarter, more sustainable transportation infrastructure in the future.
 
-Chapter 12: Autonomous Vehicles and Intelligent Transport Systems
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Autonomous vehicles and Intelligent Transport Systems (ITS) are revolutionizing the transportation industry. In this chapter, we will explore the role of artificial intelligence (AI) technologies in enabling autonomous vehicles and enhancing intelligent transport systems.
 
